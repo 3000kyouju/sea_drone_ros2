@@ -1,0 +1,27 @@
+[0.272s] Invoking command in '/home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2': PYTHONPATH=/home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/build --no-deps symlink_data
+[0.397s] running develop
+[0.399s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.399s]   warnings.warn(
+[0.462s] running egg_info
+[0.462s] creating sea_drone_ros2.egg-info
+[0.462s] writing sea_drone_ros2.egg-info/PKG-INFO
+[0.462s] writing dependency_links to sea_drone_ros2.egg-info/dependency_links.txt
+[0.462s] writing entry points to sea_drone_ros2.egg-info/entry_points.txt
+[0.462s] writing requirements to sea_drone_ros2.egg-info/requires.txt
+[0.462s] writing top-level names to sea_drone_ros2.egg-info/top_level.txt
+[0.462s] writing manifest file 'sea_drone_ros2.egg-info/SOURCES.txt'
+[0.463s] reading manifest file 'sea_drone_ros2.egg-info/SOURCES.txt'
+[0.463s] writing manifest file 'sea_drone_ros2.egg-info/SOURCES.txt'
+[0.464s] running build_ext
+[0.464s] Creating /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/lib/python3.10/site-packages/sea-drone-ros2.egg-link (link to .)
+[0.464s] Installing controller_aruco script to /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/lib/sea_drone_ros2
+[0.464s] Installing receiver script to /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/lib/sea_drone_ros2
+[0.464s] 
+[0.464s] Installed /home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2
+[0.464s] running symlink_data
+[0.464s] creating /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/share/ament_index
+[0.464s] creating /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/share/ament_index/resource_index
+[0.464s] creating /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/share/ament_index/resource_index/packages
+[0.464s] symbolically linking /home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/resource/sea_drone_ros2 -> /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/share/ament_index/resource_index/packages
+[0.464s] symbolically linking /home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/package.xml -> /home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/share/sea_drone_ros2
+[0.476s] Invoked command in '/home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2' returned '0': PYTHONPATH=/home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nakahira/ros2_ws/src/sea_drone_ros2/install/sea_drone_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/nakahira/ros2_ws/src/sea_drone_ros2/build/sea_drone_ros2/build --no-deps symlink_data
